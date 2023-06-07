@@ -29,8 +29,8 @@ Step 7: Save and run the application.
  ```
 /*
 Program to develop personal information for student
-Developed by: Bairav Skandan Loha
-RegisterNumber:  212221230010
+Developed by: JAGAN A
+RegisterNumber:  212221230037
 */
 ```
 
